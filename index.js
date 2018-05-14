@@ -3,6 +3,7 @@ const date = require("date-and-time")
 const _ = require("lodash")
 const ctable = require("console.table")
 const fs = require('fs')
+const ArgumentParser = require('argparse').ArgumentParser;
 
 /**
  * Google API url does not accept more than 5 words,
@@ -65,7 +66,7 @@ async function readFile(filename) {
   return new Promise((resolve, reject) => {
     fs.readFile(filename, (err, data) => {      
       if(err) return reject(err)
-      data = data.toString()
+      data = data.toString().trim()
       resolve(data)
     })
   })
@@ -84,7 +85,20 @@ async function getQueries(filename) {
 }
 
 async function main(){
-  let filename = 'queries.txt'
+  let parser = new ArgumentParser({
+    version: '0.0.1',
+    addHelp:true,
+    description: 'GTRENDS'
+  });
+  parser.addArgument(
+    [ '-f', '--file' ],
+    {
+      help: 'File path',
+      required: true
+    }
+  )
+  let { file } = parser.parseArgs()
+  let filename = file
   let queries = await getQueries(filename)
   queries.forEach(keywords => {
     displayTrend(keywords)
