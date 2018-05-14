@@ -1,8 +1,11 @@
 {
   "name": "gtrends-display",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "gtrends utility",
   "main": "index.js",
+  "bin": {
+    "gtrends-display": "./index.js"
+  },
   "dependencies": {
     "argparse": "^1.0.10",
     "console.table": "^0.10.0",
