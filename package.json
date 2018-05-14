@@ -1,12 +1,18 @@
 {
   "name": "gtrends-display",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "gtrends utility",
   "main": "index.js",
   "bin": {
     "gtrends-display": "./index.js"
   },
-  "keywords": ["google", "trends", "seo", "search", "engine"],
+  "keywords": [
+    "google",
+    "trends",
+    "seo",
+    "search",
+    "engine"
+  ],
   "dependencies": {
     "argparse": "^1.0.10",
     "console.table": "^0.10.0",
