@@ -12,12 +12,13 @@ const ArgumentParser = require('argparse').ArgumentParser;
  * does chunking and regrouping
  * @param {*} object 
  */
-async function getKeywordsAndAverages(object){
-  let { keywords, startTime, endTime } = object
+async function getKeywordsAndAverages(options){
+  let keywords = options.keyword
   let keywordsGroups = _.chunk(keywords, 5);
   let allPromises = keywordsGroups.map(keywords => {
     return new Promise((resolve, reject) => {
-      googleTrends.interestOverTime({startTime: startTime, endTime: endTime, keyword: keywords, geo: "SG"}, (err, results) => {
+      options.keyword = keywords
+      googleTrends.interestOverTime(options, (err, results) => {
         if(err){ return reject(err) }
         results = JSON.parse(results)
         let averages = results.default.averages
@@ -39,30 +40,54 @@ async function getKeywordsAndAverages(object){
   })
 }
 
-async function displayTrend(keywords){
+function getQueryOptions(keywords) {
+
+  let now =  new Date()
+  let tenMonthsAgo = date.addMonths(now, -10)
+  let startTime = tenMonthsAgo
+  let endTime = now
+  let geo = "SG"
+
+  return { keyword: keywords, keywords, startTime, endTime, geo }
+}
+
+async function getTrend(keywords){
   return new Promise(async (resolve, reject) => {
-    let now =  new Date()
-    let tenMonthsAgo = date.addMonths(now, -10)
-    let startTime = tenMonthsAgo
-    let endTime = now
-  
-    let keywordsAndAverages = await getKeywordsAndAverages({ keywords, startTime, endTime })
-  
-    console.log("Keywords: ", keywords.join(", "), "\n")
-    _.chunk(keywords, 5).forEach((keywords, index) => {
-      let url = "https://trends.google.com/trends/explore?"
-  
-      url += "date=" + date.format(startTime, 'YYYY-MM-DD')
-      url += " " + date.format(endTime, 'YYYY-MM-DD')
-      url += "&geo=SG&q=" + keywords.join(",")
-      url = encodeURI(url)
-      console.log("URL " + (index + 1) + " : ", url)
-    })
-    
-    console.log("\n")
-    console.table(["keyword", "average"], keywordsAndAverages)
-    console.log("*****************************************************", "\n")
+    let options = getQueryOptions(keywords)
+    options.keywordsAndAverages = await getKeywordsAndAverages(options)
+    resolve(options)
   })
+}
+
+async function getRelatedQueries(keywords){
+  return new Promise(async (resolve, reject) => {
+    let options = getQueryOptions(keywords)   
+    
+    googleTrends.relatedQueries(options, (err, results) => {
+      if(err) return reject(err)
+      results = JSON.parse(results)
+      options.relatedQueries = results.default.rankedList
+      resolve(options)  
+    })  
+  })
+}
+
+async function displayTrend(trend){
+  let {keywords, keywordsAndAverages, startTime, endTime, geo} = trend
+  console.log("Keywords: ", keywords.join(", "), "\n")
+  _.chunk(keywords, 5).forEach((keywords, index) => {
+    let url = "https://trends.google.com/trends/explore?"
+
+    url += "date=" + date.format(startTime, 'YYYY-MM-DD')
+    url += " " + date.format(endTime, 'YYYY-MM-DD')
+    url += "&geo=SG&q=" + keywords.join(",")
+    url = encodeURI(url)
+    console.log("URL " + (index + 1) + " : ", url)
+  })
+  
+  console.log("\n")
+  console.table(["keyword", "average"], keywordsAndAverages)
+  console.log("*****************************************************", "\n")
 }
 
 async function readFile(filename) {
@@ -75,7 +100,7 @@ async function readFile(filename) {
   })
 }
 
-async function getQueries(filename) {
+async function getQueriesLines(filename) {
   return new Promise(async (resolve, reject) => {
     let data = await readFile(filename)
     
@@ -85,6 +110,20 @@ async function getQueries(filename) {
     })
     resolve(queries)
   })
+}
+
+// Use this to do some manipulation of query lines like
+// Generating combo of strings
+function manipulateQueryLines(queryLines) {
+  one = queryLines[0]
+  two = queryLines[1]
+  combo = one.map(function(a1){
+    return two.map(function(a2){
+      return a1 + a2
+    });
+  });
+
+  console.log(_.flatten(combo).join(", "))
 }
 
 async function main(){
@@ -102,10 +141,57 @@ async function main(){
   )
   let { file } = parser.parseArgs()
   let filename = file
-  let queries = await getQueries(filename)
-  queries.forEach(keywords => {
-    displayTrend(keywords)
+  let queryLines = await getQueriesLines(filename)
+  let trends = queryLines.map(getTrend)
+  trends = await Promise.all(trends)
+  trends.forEach(displayTrend)
+
+  // All queries
+  console.log("All Queries", "n")
+  aggregateTrends = trends.map(trend => {
+    let {keywords, keywordsAndAverages} = trend
+    return keywordsAndAverages
+  })
+  aggregateTrends = _.chain(aggregateTrends)
+  .flatten()
+  .sortBy(item => item[1])
+  .value()
+  .reverse()
+  console.table(["Term", "Average"], aggregateTrends)
+
+  console.log("*****************************************************", "\n")
+
+  // Related queries
+  console.log("Related Queries", '\n')
+  
+  relatedQueries = aggregateTrends.map(trend => {
+    return getRelatedQueries(trend[0])
+  })
+  relatedQueries = await Promise.all(relatedQueries)
+
+  relatedQueries = relatedQueries.map(result => {
+    queries = _.flatMap(result.relatedQueries, item => item.rankedKeyword)
+    .map(query => query.query)
+    .slice(0, 10)
+    .join("\n")
+    return [result.keywords, queries]
+  })
+
+  relatedQueries = _.sortBy(relatedQueries, item => item[1].length).reverse()
+
+  var Table = require('cli-table')
+ 
+  // instantiate
+  var table = new Table({
+      head: ["Query", "Related Queries"]
   });
+  
+  // table is an Array, so you can `push`, `unshift`, `splice` and friends
+  relatedQueries.forEach(row => table.push(row));
+  
+  console.log(table.toString())
+
+  // manipulateQueryLines(queryLines)
 }
 
 main()

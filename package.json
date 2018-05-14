@@ -15,6 +15,7 @@
   ],
   "dependencies": {
     "argparse": "^1.0.10",
+    "cli-table": "^0.3.1",
     "console.table": "^0.10.0",
     "date-and-time": "^0.6.2",
     "google-trends-api": "^4.6.1",
