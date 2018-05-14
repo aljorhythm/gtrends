@@ -23,7 +23,6 @@ async function getKeywordsAndAverages(object){
         let averages = results.default.averages
     
         let keywordsAndAverages = _.zip(keywords, averages)
-        keywordsAndAverages = _.sortBy(keywordsAndAverages, [(item) => { return item[1] }]).reverse()
         resolve(keywordsAndAverages)
       })
     })
@@ -33,6 +32,7 @@ async function getKeywordsAndAverages(object){
     resultsRegrouped = _.chain(results)
     .flatten()
     .concat()
+    .sortBy([(item) => { return item[1] }]).reverse()
     .value()
     
     return resultsRegrouped
@@ -48,17 +48,18 @@ async function displayTrend(keywords){
   
     let keywordsAndAverages = await getKeywordsAndAverages({ keywords, startTime, endTime })
   
-    console.log("Keywords: ", keywords.join(", "))
-    _.chunk(keywords, 0).forEach((keywords, index) => {
+    console.log("Keywords: ", keywords.join(", "), "\n")
+    _.chunk(keywords, 5).forEach((keywords, index) => {
       let url = "https://trends.google.com/trends/explore?"
   
       url += "date=" + date.format(startTime, 'YYYY-MM-DD')
       url += " " + date.format(endTime, 'YYYY-MM-DD')
       url += "&geo=SG&q=" + keywords.join(",")
       url = encodeURI(url)
-      console.log("URL " + index + ": ", url)
+      console.log("URL " + (index + 1) + " : ", url)
     })
-
+    
+    console.log("\n")
     console.table(["keyword", "average"], keywordsAndAverages)
     console.log("*****************************************************", "\n")
   })
