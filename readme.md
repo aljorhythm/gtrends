@@ -6,8 +6,8 @@ Currently displays for Singapore, for the past 10 months
 
 ## Installation
 
-`npm -i gtrends -g`
+`npm install gtrends-display -g`
 
 ## Usage
 
-Run `gtrends --file <queries_file>`
+Run `gtrends-display --file <queries_file>`
