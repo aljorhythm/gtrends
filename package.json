@@ -1,5 +1,5 @@
 {
-  "name": "gtrends",
+  "name": "gtrends-display",
   "version": "1.0.0",
   "description": "gtrends utility",
   "main": "index.js",
