@@ -3,7 +3,6 @@
 const googleTrends = require("google-trends-api")
 const date = require("date-and-time")
 const _ = require("lodash")
-const ctable = require("console.table")
 const fs = require('fs')
 const ArgumentParser = require('argparse').ArgumentParser;
 
@@ -147,7 +146,7 @@ async function main(){
   trends.forEach(displayTrend)
 
   // All queries
-  console.log("All Queries", "n")
+  console.log("All Queries", "\n")
   aggregateTrends = trends.map(trend => {
     let {keywords, keywordsAndAverages} = trend
     return keywordsAndAverages
@@ -157,6 +156,27 @@ async function main(){
   .sortBy(item => item[1])
   .value()
   .reverse()
+  aggregateTrends = aggregateTrends.map(async (trend) => {
+    let keyword = trend[0]
+    result = await getRelatedQueries(trend[0])
+    relatedQueries = _.flatMap(result.relatedQueries, item => item.rankedKeyword)
+    .map(query => query.query)
+    .slice(0, 10)
+    .join("\n")
+    trend.push(relatedQueries)
+    return trend
+  })
+  aggregateTrends = await Promise.all(aggregateTrends)
+
+  var Table = require('cli-table') 
+  var table = new Table({
+      head: ["Query", "Average", "Related Queries"]
+  })
+  aggregateTrends.forEach(row => table.push(row))
+  
+  console.log(table.toString())
+  return console.log(aggregateTrends)
+  
   console.table(["Term", "Average"], aggregateTrends)
 
   console.log("*****************************************************", "\n")
@@ -169,7 +189,8 @@ async function main(){
   })
   relatedQueries = await Promise.all(relatedQueries)
 
-  relatedQueries = relatedQueries.map(result => {
+  relatedQueries = relatedQueries.map(async result => {
+    result = await getRelatedQueries(trend[0])
     queries = _.flatMap(result.relatedQueries, item => item.rankedKeyword)
     .map(query => query.query)
     .slice(0, 10)
@@ -179,17 +200,7 @@ async function main(){
 
   relatedQueries = _.sortBy(relatedQueries, item => item[1].length).reverse()
 
-  var Table = require('cli-table')
- 
-  // instantiate
-  var table = new Table({
-      head: ["Query", "Related Queries"]
-  });
   
-  // table is an Array, so you can `push`, `unshift`, `splice` and friends
-  relatedQueries.forEach(row => table.push(row));
-  
-  console.log(table.toString())
 
   // manipulateQueryLines(queryLines)
 }
