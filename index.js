@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const googleTrends = require("google-trends-api")
 const date = require("date-and-time")
 const _ = require("lodash")
