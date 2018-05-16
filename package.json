@@ -1,6 +1,6 @@
 {
   "name": "gtrends-display",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "gtrends utility",
   "main": "index.js",
   "bin": {
