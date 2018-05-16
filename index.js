@@ -8,8 +8,9 @@ const ArgumentParser = require('argparse').ArgumentParser
 const Table = require('cli-table')
 const HttpsProxyAgent = require('https-proxy-agent')
 
-// let ip_port = "187.32.184.5:20183"
-// let proxy = new HttpsProxyAgent('https://' + ip_port + '/')
+let ip_port// = "207.32.30.20:8080"
+let proxy
+if (ip_port) proxy = new HttpsProxyAgent('https://' + ip_port + '/')
 
 /**
  * Single call to API
@@ -64,14 +65,34 @@ async function getKeywordsAndAverages(options){
   }
 }
 
+const english = /^[A-Za-z0-9 ]*$/;
+
+function getLanguageCode(string) {
+  if (Array.isArray(string)) {
+    string = string[0]
+  }
+  let language
+  if (english.test(string)) {
+    language = 'english'
+  } else {
+    language = 'chinese'
+  }
+  let languageCodes = {
+    'english' : 'en',
+    'chinese' : 'zh-CN'
+  }
+  return languageCodes[language]
+}
+
 function getQueryOptions(keywords) {
   let now =  new Date()
   let tenMonthsAgo = date.addMonths(now, -10)
   let startTime = tenMonthsAgo
   let endTime = now
   let geo = "SG"
+  let language = getLanguageCode(keywords)
 
-  let options = { keyword: keywords, keywords, startTime, endTime, geo }
+  let options = { hl: language, keyword: keywords, keywords, startTime, endTime, geo }
   if(typeof proxy != "undefined" && proxy) {
     options['agent'] = proxy
   }
@@ -82,9 +103,7 @@ async function getTrend(keywords){
   let options = getQueryOptions(keywords)
   try {
     let averages = await getKeywordsAndAverages(options)
-
     let relatedQueries = await getRelatedQueries(options)
-    
     let relatedTopics = await getRelatedTopics(options)
     
     options.relatedTopics = relatedTopics
@@ -92,7 +111,8 @@ async function getTrend(keywords){
     options.relatedQueries = relatedQueries
     return options
   } catch (err) {
-    throw err
+    err.options = options
+    return Promise.reject(err)
   }
 }
 
@@ -115,7 +135,11 @@ async function getRelatedTopics(options) {
     return obj
   }, {})
 
-  await Promise.all(_.values(relatedTopics))
+  try {
+    await Promise.all(_.values(relatedTopics))
+  } catch(err) {
+    return Promise.reject(err)
+  }
 
   for (key in relatedTopics) {
     let relatedToQuery = await relatedTopics[key]
@@ -154,7 +178,11 @@ async function getRelatedQueries(options) {
     return obj
   }, {})
 
-  await Promise.all(_.values(relatedQueries))
+  try {
+    await Promise.all(_.values(relatedQueries))    
+  } catch (err) {
+    return Promise.reject(err)
+  }
 
   for (key in relatedQueries) {
     let relatedToQuery = await relatedQueries[key]
@@ -184,11 +212,11 @@ function displayTrendTable(trend) {
     return row
   })
   .sortBy(item => item[1])
+  .value()
+  .reverse()
   .map((row, index) => {
     return [index + 1].concat(row)
   })
-  .value()
-  .reverse()
   .forEach(row => table.push(row))
 
   console.log(table.toString())
@@ -229,6 +257,8 @@ async function getQueriesLines(filename) {
     let data = await readFile(filename)
     
     let lines = data.split("\n")
+    lines = _.filter(lines, line => line.length > 0 && line.charAt(0) != "#")
+    
     let queries = lines.map(line => {
       return line.split(",").map(str => str.trim())
     })
@@ -274,6 +304,9 @@ async function main(){
       displayTrend(trend)
     })
   } catch (err) {
+    if (err.requestBody && err.requestBody.includes('too many')) {
+      return console.log("Too many requests")
+    }
     return console.log("Cannot get trends", err)
   }
 
