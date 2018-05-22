@@ -1,0 +1,746 @@
+Keywords:  游船, 游轮, 巡航, 邮轮, 轮船 
+
+URL 1 :  https://trends.google.com/trends/explore?date=2017-07-16%202018-05-16&geo=SG&q=%E6%B8%B8%E8%88%B9,%E6%B8%B8%E8%BD%AE,%E5%B7%A1%E8%88%AA,%E9%82%AE%E8%BD%AE,%E8%BD%AE%E8%88%B9
+
+
+┌─────┬─────────┬─────────┬─────────────────┬────────────────┐
+│ s/n │ keyword │ average │ related queries │ related topics │
+├─────┼─────────┼─────────┼─────────────────┼────────────────┤
+│ 1   │ 邮轮      │ 41      │                 │ 游轮             │
+│     │         │         │                 │ 麗星郵輪           │
+│     │         │         │                 │ 轮船             │
+│     │         │         │                 │ 雲頂夢號郵輪         │
+│     │         │         │                 │ 旅行社            │
+│     │         │         │                 │ 码头             │
+│     │         │         │                 │ 旅行社            │
+│     │         │         │                 │ 码头             │
+│     │         │         │                 │ 麗星郵輪           │
+├─────┼─────────┼─────────┼─────────────────┼────────────────┤
+│ 2   │ 游轮      │ 17      │                 │ 游轮             │
+│     │         │         │                 │ 普吉府            │
+│     │         │         │                 │ 普吉府            │
+├─────┼─────────┼─────────┼─────────────────┼────────────────┤
+│ 3   │ 游船      │ 9       │                 │                │
+├─────┼─────────┼─────────┼─────────────────┼────────────────┤
+│ 4   │ 轮船      │ 5       │                 │                │
+├─────┼─────────┼─────────┼─────────────────┼────────────────┤
+│ 5   │ 巡航      │ 4       │                 │ 飛彈             │
+│     │         │         │                 │ 巡航速度           │
+│     │         │         │                 │ 巡航导弹           │
+│     │         │         │                 │ 飛彈             │
+│     │         │         │                 │ 巡航速度           │
+│     │         │         │                 │ 巡航导弹           │
+└─────┴─────────┴─────────┴─────────────────┴────────────────┘
+***************************************************** 
+
+Keywords:  促销, 交易, 折扣, 扣头, 优惠 
+
+URL 1 :  https://trends.google.com/trends/explore?date=2017-07-16%202018-05-16&geo=SG&q=%E4%BF%83%E9%94%80,%E4%BA%A4%E6%98%93,%E6%8A%98%E6%89%A3,%E6%89%A3%E5%A4%B4,%E4%BC%98%E6%83%A0
+
+
+┌─────┬─────────┬─────────┬─────────────────┬────────────────┐
+│ s/n │ keyword │ average │ related queries │ related topics │
+├─────┼─────────┼─────────┼─────────────────┼────────────────┤
+│ 1   │ 交易      │ 51      │                 │ 交易             │
+│     │         │         │                 │ 交易所            │
+│     │         │         │                 │ 新加坡交易所         │
+│     │         │         │                 │ 股票             │
+│     │         │         │                 │ 比特币            │
+│     │         │         │                 │ 上海證券交易所        │
+│     │         │         │                 │ 期货             │
+│     │         │         │                 │ 證券             │
+│     │         │         │                 │ 货币             │
+│     │         │         │                 │ 证券交易所          │
+├─────┼─────────┼─────────┼─────────────────┼────────────────┤
+│ 2   │ 优惠      │ 16      │                 │ 优惠券            │
+│     │         │         │                 │ 淘寶網            │
+│     │         │         │                 │ 码              │
+│     │         │         │                 │ 政策             │
+│     │         │         │                 │ 機票             │
+│     │         │         │                 │ 淘寶網            │
+│     │         │         │                 │ 优惠券            │
+├─────┼─────────┼─────────┼─────────────────┼────────────────┤
+│ 3   │ 折扣      │ 7       │                 │ 回贈             │
+├─────┼─────────┼─────────┼─────────────────┼────────────────┤
+│ 4   │ 促销      │ 7       │                 │ 促销活动           │
+│     │         │         │                 │ 機票             │
+│     │         │         │                 │ 推广             │
+│     │         │         │                 │ 推广             │
+├─────┼─────────┼─────────┼─────────────────┼────────────────┤
+│ 5   │ 扣头      │ 0       │                 │                │
+└─────┴─────────┴─────────┴─────────────────┴────────────────┘
+***************************************************** 
+
+Keywords:  邮轮配套, 邮轮旅游, 邮轮优惠, 邮轮折扣 
+
+URL 1 :  https://trends.google.com/trends/explore?date=2017-07-16%202018-05-16&geo=SG&q=%E9%82%AE%E8%BD%AE%E9%85%8D%E5%A5%97,%E9%82%AE%E8%BD%AE%E6%97%85%E6%B8%B8,%E9%82%AE%E8%BD%AE%E4%BC%98%E6%83%A0,%E9%82%AE%E8%BD%AE%E6%8A%98%E6%89%A3
+
+
+┌─────┬─────────┬─────────┬─────────────────┬────────────────┐
+│ s/n │ keyword │ average │ related queries │ related topics │
+├─────┼─────────┼─────────┼─────────────────┼────────────────┤
+│ 1   │ 邮轮折扣    │ 0       │                 │                │
+├─────┼─────────┼─────────┼─────────────────┼────────────────┤
+│ 2   │ 邮轮优惠    │ 0       │                 │                │
+├─────┼─────────┼─────────┼─────────────────┼────────────────┤
+│ 3   │ 邮轮旅游    │ 0       │                 │                │
+├─────┼─────────┼─────────┼─────────────────┼────────────────┤
+│ 4   │ 邮轮配套    │ 0       │                 │                │
+└─────┴─────────┴─────────┴─────────────────┴────────────────┘
+***************************************************** 
+
+Keywords:  新加坡邮轮, 马来西亚邮轮 
+
+URL 1 :  https://trends.google.com/trends/explore?date=2017-07-16%202018-05-16&geo=SG&q=%E6%96%B0%E5%8A%A0%E5%9D%A1%E9%82%AE%E8%BD%AE,%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E9%82%AE%E8%BD%AE
+
+
+┌─────┬─────────┬─────────┬─────────────────┬────────────────┐
+│ s/n │ keyword │ average │ related queries │ related topics │
+├─────┼─────────┼─────────┼─────────────────┼────────────────┤
+│ 1   │ 马来西亚邮轮  │ 0       │                 │ 馬來西亞           │
+├─────┼─────────┼─────────┼─────────────────┼────────────────┤
+│ 2   │ 新加坡邮轮   │ 0       │                 │ 游轮             │
+│     │         │         │                 │ 海域             │
+│     │         │         │                 │ 海域             │
+└─────┴─────────┴─────────┴─────────────────┴────────────────┘
+***************************************************** 
+
+Keywords:  麗星郵輪, 雲頂夢號郵輪 
+
+URL 1 :  https://trends.google.com/trends/explore?date=2017-07-16%202018-05-16&geo=SG&q=%E9%BA%97%E6%98%9F%E9%83%B5%E8%BC%AA,%E9%9B%B2%E9%A0%82%E5%A4%A2%E8%99%9F%E9%83%B5%E8%BC%AA
+
+
+┌─────┬─────────┬─────────┬─────────────────┬────────────────┐
+│ s/n │ keyword │ average │ related queries │ related topics │
+├─────┼─────────┼─────────┼─────────────────┼────────────────┤
+│ 1   │ 雲頂夢號郵輪  │ 0       │                 │                │
+├─────┼─────────┼─────────┼─────────────────┼────────────────┤
+│ 2   │ 麗星郵輪    │ 0       │                 │                │
+└─────┴─────────┴─────────┴─────────────────┴────────────────┘
+***************************************************** 
+
+Keywords:  cruise offers, cruise blog, cruise reviews, cruise promo, cruise promotion, cruise sales, cruise discount, cheap cruise, cruises, cruise, dream cruise, star cruise, cruise holiday, cruise ship 
+
+URL 1 :  https://trends.google.com/trends/explore?date=2017-07-16%202018-05-16&geo=SG&q=cruise%20offers,cruise%20blog,cruise%20reviews,cruise%20promo,cruise%20promotion
+URL 2 :  https://trends.google.com/trends/explore?date=2017-07-16%202018-05-16&geo=SG&q=cruise%20sales,cruise%20discount,cheap%20cruise,cruises,cruise
+URL 3 :  https://trends.google.com/trends/explore?date=2017-07-16%202018-05-16&geo=SG&q=dream%20cruise,star%20cruise,cruise%20holiday,cruise%20ship
+
+
+┌─────┬──────────────────┬─────────┬───────────────────────────────────┬────────────────────────────────────┐
+│ s/n │ keyword          │ average │ related queries                   │ related topics                     │
+├─────┼──────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 1   │ cruise           │ 67      │ singapore cruise                  │ Cruise ship                        │
+│     │                  │         │ dream cruise                      │ Cruising                           │
+│     │                  │         │ tom cruise                        │ Tom Cruise                         │
+│     │                  │         │ caribbean cruise                  │ Genting Dream                      │
+│     │                  │         │ caribbean                         │ Ship                               │
+│     │                  │         │ river cruise                      │ Royal Caribbean Cruises            │
+│     │                  │         │ genting cruise                    │ Marina Bay Cruise Centre Singapore │
+│     │                  │         │ cruise centre                     │ Star Cruises                       │
+│     │                  │         │ royal caribbean cruise            │ Royal Caribbean International      │
+│     │                  │         │ royal caribbean                   │ River                              │
+├─────┼──────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 2   │ cruise promotion │ 43      │ cruise singapore                  │ Cruise ship                        │
+│     │                  │         │ singapore cruise promotion        │ Promotion                          │
+│     │                  │         │ dream cruise                      │ Star Cruises                       │
+│     │                  │         │ dream cruise promotion            │ Royal Caribbean International      │
+│     │                  │         │ cruise singapore promotion 2018   │ Royal Caribbean Cruises            │
+│     │                  │         │ star cruise promotion             │ Genting Dream                      │
+│     │                  │         │ royal caribbean singapore         │ Genting Group                      │
+│     │                  │         │ genting dream cruise              │ Caribbean                          │
+│     │                  │         │ dream cruise promotion 2018       │ Cruising                           │
+│     │                  │         │ cruise singapore promotion 2018   │ Penang                             │
+├─────┼──────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 3   │ dream cruise     │ 31      │ genting dream cruise              │ Cruise ship                        │
+│     │                  │         │ genting dream                     │ Genting Dream                      │
+│     │                  │         │ genting cruise                    │ Dream                              │
+│     │                  │         │ cruise singapore                  │ Star Cruises                       │
+│     │                  │         │ dream cruise singapore            │ Genting Highlands                  │
+│     │                  │         │ genting dream cruise singapore    │ Ship                               │
+│     │                  │         │ dream cruise review               │ Genting Group                      │
+│     │                  │         │ dream cruise 2018                 │ Phuket Province                    │
+│     │                  │         │ caribbean cruise                  │ World Dream                        │
+│     │                  │         │ royal caribbean                   │ Marina Bay Cruise Centre Singapore │
+├─────┼──────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 4   │ star cruise      │ 11      │ star cruise singapore             │ Star Cruises                       │
+│     │                  │         │ cruise singapore                  │ Cruise ship                        │
+│     │                  │         │ star cruise promotion             │ Royal Caribbean Cruises            │
+│     │                  │         │ royal caribbean singapore         │ Genting Group                      │
+│     │                  │         │ star cruise gemini                │ SuperStar Gemini                   │
+│     │                  │         │ starcruise                        │ Cruising                           │
+│     │                  │         │ royal caribbean singapore         │ Star                               │
+│     │                  │         │                                   │ Genting Highlands                  │
+│     │                  │         │                                   │ Resort                             │
+│     │                  │         │                                   │ Penang                             │
+├─────┼──────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 5   │ cruise ship      │ 9       │ cruise ship singapore             │ Cruise ship                        │
+│     │                  │         │ cartoon network cruise ship       │ Ship                               │
+│     │                  │         │ cartoon network cruise ship       │ Job                                │
+│     │                  │         │                                   │ Genting Dream                      │
+│     │                  │         │                                   │ Passenger                          │
+│     │                  │         │                                   │ Star Cruises                       │
+│     │                  │         │                                   │ Princess Cruises                   │
+│     │                  │         │                                   │ Caribbean                          │
+│     │                  │         │                                   │ Cruising                           │
+│     │                  │         │                                   │ MS Mariner of the Seas             │
+├─────┼──────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 6   │ cruise reviews   │ 8       │                                   │ Review                             │
+│     │                  │         │                                   │ Cruise ship                        │
+│     │                  │         │                                   │ Ha Long Bay                        │
+│     │                  │         │                                   │ bay                                │
+│     │                  │         │                                   │ Genting Dream                      │
+│     │                  │         │                                   │ Alaska                             │
+│     │                  │         │                                   │ Ship                               │
+├─────┼──────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 7   │ cruises          │ 6       │ dream cruises                     │ Cruise ship                        │
+│     │                  │         │ cruises from singapore            │ Princess Cruises                   │
+│     │                  │         │ princess cruises                  │ Cruising                           │
+│     │                  │         │ royal caribbean cruises           │ Star Cruises                       │
+│     │                  │         │ royal caribbean                   │ Dream                              │
+│     │                  │         │ star cruises                      │ Royal Caribbean Cruises            │
+│     │                  │         │ princess cruises singapore        │ Caribbean                          │
+│     │                  │         │ dream cruises singapore           │ Genting Dream                      │
+│     │                  │         │ royal caribbean singapore         │ River                              │
+│     │                  │         │ royal caribbean cruises singapore │ Ship                               │
+├─────┼──────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 8   │ cruise holiday   │ 2       │                                   │ Cruise ship                        │
+│     │                  │         │                                   │ Holiday                            │
+│     │                  │         │                                   │ school                             │
+│     │                  │         │                                   │ Cruising                           │
+│     │                  │         │                                   │ School holiday                     │
+│     │                  │         │                                   │ Genting Dream                      │
+│     │                  │         │                                   │ Package tour                       │
+│     │                  │         │                                   │ school                             │
+│     │                  │         │                                   │ Genting Dream                      │
+│     │                  │         │                                   │ School holiday                     │
+├─────┼──────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 9   │ cheap cruise     │ 1       │                                   │ Cruise ship                        │
+│     │                  │         │                                   │ Flight                             │
+│     │                  │         │                                   │ Cruising                           │
+│     │                  │         │                                   │ Ticket                             │
+│     │                  │         │                                   │ Star Cruises                       │
+│     │                  │         │                                   │ Star Cruises                       │
+│     │                  │         │                                   │ Cruising                           │
+│     │                  │         │                                   │ Cruise ship                        │
+│     │                  │         │                                   │ Ticket                             │
+├─────┼──────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 10  │ cruise discount  │ 0       │                                   │                                    │
+├─────┼──────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 11  │ cruise sales     │ 0       │                                   │                                    │
+├─────┼──────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 12  │ cruise promo     │ 0       │                                   │ Code                               │
+│     │                  │         │                                   │ Cruise ship                        │
+│     │                  │         │                                   │ Coupon                             │
+│     │                  │         │                                   │ Royal Caribbean Cruises            │
+│     │                  │         │                                   │ Cruising                           │
+│     │                  │         │                                   │ Royal Caribbean International      │
+│     │                  │         │                                   │ Promotion                          │
+│     │                  │         │                                   │ Cruising                           │
+│     │                  │         │                                   │ Promotion                          │
+│     │                  │         │                                   │ Code                               │
+├─────┼──────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 13  │ cruise blog      │ 0       │ genting dream cruise blog         │ Blog                               │
+│     │                  │         │ genting dream cruise blog         │ Cruise ship                        │
+│     │                  │         │                                   │ Genting Dream                      │
+│     │                  │         │                                   │ Travel                             │
+│     │                  │         │                                   │ Review                             │
+│     │                  │         │                                   │ River                              │
+│     │                  │         │                                   │ MS Mariner of the Seas             │
+│     │                  │         │                                   │ Royal Caribbean International      │
+│     │                  │         │                                   │ Genting Dream                      │
+├─────┼──────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 14  │ cruise offers    │ 0       │                                   │                                    │
+└─────┴──────────────────┴─────────┴───────────────────────────────────┴────────────────────────────────────┘
+***************************************************** 
+
+Keywords:  Batam cruise, Malaysia cruise, Singapore cruise, Hong Kong cruise, Taiwan cruise, china cruise, Japan cruise, carribean cruise, river cruise, genting cruise, singapore cruise deals, genting dream 
+
+URL 1 :  https://trends.google.com/trends/explore?date=2017-07-16%202018-05-16&geo=SG&q=Batam%20cruise,Malaysia%20cruise,Singapore%20cruise,Hong%20Kong%20cruise,Taiwan%20cruise
+URL 2 :  https://trends.google.com/trends/explore?date=2017-07-16%202018-05-16&geo=SG&q=china%20cruise,Japan%20cruise,carribean%20cruise,river%20cruise,genting%20cruise
+URL 3 :  https://trends.google.com/trends/explore?date=2017-07-16%202018-05-16&geo=SG&q=singapore%20cruise%20deals,genting%20dream
+
+
+┌─────┬────────────────────────┬─────────┬──────────────────────────────────┬────────────────────────────────────┐
+│ s/n │ keyword                │ average │ related queries                  │ related topics                     │
+├─────┼────────────────────────┼─────────┼──────────────────────────────────┼────────────────────────────────────┤
+│ 1   │ Singapore cruise       │ 69      │ cruise in singapore              │ Cruise ship                        │
+│     │                        │         │ caribbean cruise singapore       │ Royal Caribbean Cruises            │
+│     │                        │         │ dream cruise singapore           │ Royal Caribbean International      │
+│     │                        │         │ dream cruise                     │ Star Cruises                       │
+│     │                        │         │ caribbean cruise                 │ Cruising                           │
+│     │                        │         │ royal caribbean                  │ Ship                               │
+│     │                        │         │ royal caribbean cruise singapore │ Genting Dream                      │
+│     │                        │         │ royal caribbean singapore        │ Dream                              │
+│     │                        │         │ cruise from singapore            │ Princess Cruises                   │
+│     │                        │         │ river cruise singapore           │ Singapore Cruise Centre            │
+├─────┼────────────────────────┼─────────┼──────────────────────────────────┼────────────────────────────────────┤
+│ 2   │ genting dream          │ 42      │ dream cruise                     │ Genting Dream                      │
+│     │                        │         │ genting dream cruise             │ Cruise ship                        │
+│     │                        │         │ genting dream cruise singapore   │ Genting Group                      │
+│     │                        │         │ genting dream review             │ Dream                              │
+│     │                        │         │ genting dream cruise review      │ Blog                               │
+│     │                        │         │ royal caribbean singapore        │ Genting Highlands                  │
+│     │                        │         │ dream cruise                     │ Royal Caribbean Cruises            │
+│     │                        │         │ genting dream cruise             │ Royal Caribbean International      │
+│     │                        │         │ genting dream cruise singapore   │ Star Cruises                       │
+│     │                        │         │ genting dream review             │ Ship                               │
+├─────┼────────────────────────┼─────────┼──────────────────────────────────┼────────────────────────────────────┤
+│ 3   │ genting cruise         │ 40      │ genting dream cruise             │ Cruise ship                        │
+│     │                        │         │ genting dream                    │ Genting Dream                      │
+│     │                        │         │ dream cruise                     │ Genting Group                      │
+│     │                        │         │ genting cruise singapore         │ Dream                              │
+│     │                        │         │ cruise singapore                 │ Genting Highlands                  │
+│     │                        │         │ genting dream cruise singapore   │ Ship                               │
+│     │                        │         │ genting dream cruise review      │ Star Cruises                       │
+│     │                        │         │ genting dream cruise blog        │ Marina Bay Cruise Centre Singapore │
+│     │                        │         │ genting dream cruise price       │ Blog                               │
+│     │                        │         │ dream cruise                     │ Balcony                            │
+├─────┼────────────────────────┼─────────┼──────────────────────────────────┼────────────────────────────────────┤
+│ 4   │ river cruise           │ 37      │ singapore river cruise           │ River                              │
+│     │                        │         │ river safari cruise              │ River cruise                       │
+│     │                        │         │ melaka river cruise              │ Cruising                           │
+│     │                        │         │ river safari cruise              │ Ticket                             │
+│     │                        │         │                                  │ Cruise ship                        │
+│     │                        │         │                                  │ Boat                               │
+│     │                        │         │                                  │ River Safari                       │
+│     │                        │         │                                  │ Safari                             │
+│     │                        │         │                                  │ Sentosa                            │
+│     │                        │         │                                  │ Wharf                              │
+├─────┼────────────────────────┼─────────┼──────────────────────────────────┼────────────────────────────────────┤
+│ 5   │ carribean cruise       │ 7       │ royal carribean cruise           │ Caribbean                          │
+│     │                        │         │                                  │ Cruise ship                        │
+│     │                        │         │                                  │ Royal Caribbean Cruises            │
+│     │                        │         │                                  │ Royal Caribbean International      │
+│     │                        │         │                                  │ Cruising                           │
+│     │                        │         │                                  │ MS Mariner of the Seas             │
+│     │                        │         │                                  │ Travel                             │
+│     │                        │         │                                  │ Review                             │
+│     │                        │         │                                  │ Genting Dream                      │
+│     │                        │         │                                  │ MS Voyager of the Seas             │
+├─────┼────────────────────────┼─────────┼──────────────────────────────────┼────────────────────────────────────┤
+│ 6   │ singapore cruise deals │ 4       │                                  │ Cruise ship                        │
+│     │                        │         │                                  │ Holiday                            │
+│     │                        │         │                                  │ Travel                             │
+│     │                        │         │                                  │ Royal Caribbean Cruises            │
+│     │                        │         │                                  │ Holiday                            │
+│     │                        │         │                                  │ Travel                             │
+│     │                        │         │                                  │ Royal Caribbean Cruises            │
+├─────┼────────────────────────┼─────────┼──────────────────────────────────┼────────────────────────────────────┤
+│ 7   │ china cruise           │ 3       │                                  │ Cruise ship                        │
+│     │                        │         │                                  │ China                              │
+│     │                        │         │                                  │ Cruise ship                        │
+├─────┼────────────────────────┼─────────┼──────────────────────────────────┼────────────────────────────────────┤
+│ 8   │ Japan cruise           │ 0       │                                  │ Japan                              │
+│     │                        │         │                                  │ Cruise ship                        │
+│     │                        │         │                                  │ Lake                               │
+│     │                        │         │                                  │ Lake                               │
+├─────┼────────────────────────┼─────────┼──────────────────────────────────┼────────────────────────────────────┤
+│ 9   │ Taiwan cruise          │ 0       │                                  │ Taiwan                             │
+│     │                        │         │                                  │ Cruise ship                        │
+│     │                        │         │                                  │ Japan                              │
+│     │                        │         │                                  │ Japan                              │
+│     │                        │         │                                  │ Cruise ship                        │
+├─────┼────────────────────────┼─────────┼──────────────────────────────────┼────────────────────────────────────┤
+│ 10  │ Hong Kong cruise       │ 0       │                                  │ Hong Kong                          │
+│     │                        │         │                                  │ Cruise ship                        │
+│     │                        │         │                                  │ Star Cruises                       │
+│     │                        │         │                                  │ Ship                               │
+│     │                        │         │                                  │ Star Cruises                       │
+├─────┼────────────────────────┼─────────┼──────────────────────────────────┼────────────────────────────────────┤
+│ 11  │ Malaysia cruise        │ 0       │ star cruise malaysia             │ Malaysia                           │
+│     │                        │         │                                  │ Cruise ship                        │
+│     │                        │         │                                  │ Royal Caribbean Cruises            │
+│     │                        │         │                                  │ Royal Caribbean International      │
+│     │                        │         │                                  │ Kuala Lumpur                       │
+│     │                        │         │                                  │ Asia                               │
+│     │                        │         │                                  │ Genting Group                      │
+│     │                        │         │                                  │ Genting Highlands                  │
+│     │                        │         │                                  │ Penang                             │
+│     │                        │         │                                  │ Star Cruises                       │
+├─────┼────────────────────────┼─────────┼──────────────────────────────────┼────────────────────────────────────┤
+│ 12  │ Batam cruise           │ 0       │                                  │ Batam                              │
+│     │                        │         │                                  │ Cruise ship                        │
+│     │                        │         │                                  │ Ferry                              │
+│     │                        │         │                                  │ Hotel                              │
+│     │                        │         │                                  │ Resort                             │
+│     │                        │         │                                  │ Bintan Island                      │
+│     │                        │         │                                  │ Hotel                              │
+│     │                        │         │                                  │ Resort                             │
+│     │                        │         │                                  │ Bintan Island                      │
+└─────┴────────────────────────┴─────────┴──────────────────────────────────┴────────────────────────────────────┘
+***************************************************** 
+
+Keywords:  cruisegowhere, star virgo, royal carribean, royal carribean sg, dreamlines, vacationstogo, cruisecritic, chanbrothers cruise 
+
+URL 1 :  https://trends.google.com/trends/explore?date=2017-07-16%202018-05-16&geo=SG&q=cruisegowhere,star%20virgo,royal%20carribean,royal%20carribean%20sg,dreamlines
+URL 2 :  https://trends.google.com/trends/explore?date=2017-07-16%202018-05-16&geo=SG&q=vacationstogo,cruisecritic,chanbrothers%20cruise
+
+
+┌─────┬─────────────────────┬─────────┬───────────────────────────┬───────────────────────────────┐
+│ s/n │ keyword             │ average │ related queries           │ related topics                │
+├─────┼─────────────────────┼─────────┼───────────────────────────┼───────────────────────────────┤
+│ 1   │ royal carribean     │ 54      │ royal carribean singapore │ Caribbean                     │
+│     │                     │         │ royal carribean cruise    │ Cruise ship                   │
+│     │                     │         │ royal caribbean singapore │ Royal Caribbean Cruises       │
+│     │                     │         │ royal carribean sg        │ Royal Caribbean International │
+│     │                     │         │ royal caribbean singapore │ MS Mariner of the Seas        │
+│     │                     │         │ royal carribean singapore │ Penang                        │
+│     │                     │         │                           │ Cruising                      │
+│     │                     │         │                           │ Genting Dream                 │
+│     │                     │         │                           │ MS Voyager of the Seas        │
+│     │                     │         │                           │ Balcony                       │
+├─────┼─────────────────────┼─────────┼───────────────────────────┼───────────────────────────────┤
+│ 2   │ star virgo          │ 7       │                           │ SuperStar Virgo               │
+│     │                     │         │                           │ Star Cruises                  │
+│     │                     │         │                           │ Cruise ship                   │
+│     │                     │         │                           │ Virgo                         │
+│     │                     │         │                           │ Astrological sign             │
+│     │                     │         │                           │ Horoscope                     │
+├─────┼─────────────────────┼─────────┼───────────────────────────┼───────────────────────────────┤
+│ 3   │ royal carribean sg  │ 4       │                           │ Caribbean                     │
+├─────┼─────────────────────┼─────────┼───────────────────────────┼───────────────────────────────┤
+│ 4   │ chanbrothers cruise │ 0       │                           │                               │
+├─────┼─────────────────────┼─────────┼───────────────────────────┼───────────────────────────────┤
+│ 5   │ cruisecritic        │ 0       │                           │ Cruise Critic                 │
+├─────┼─────────────────────┼─────────┼───────────────────────────┼───────────────────────────────┤
+│ 6   │ vacationstogo       │ 0       │                           │                               │
+├─────┼─────────────────────┼─────────┼───────────────────────────┼───────────────────────────────┤
+│ 7   │ dreamlines          │ 0       │                           │                               │
+├─────┼─────────────────────┼─────────┼───────────────────────────┼───────────────────────────────┤
+│ 8   │ cruisegowhere       │ 0       │                           │                               │
+└─────┴─────────────────────┴─────────┴───────────────────────────┴───────────────────────────────┘
+***************************************************** 
+
+All Queries 
+
+┌─────┬────────────────────────┬─────────┬───────────────────────────────────┬────────────────────────────────────┐
+│ s/n │ keyword                │ average │ related queries                   │ related topics                     │
+├─────┼────────────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 1   │ Singapore cruise       │ 69      │ cruise in singapore               │ Cruise ship                        │
+│     │                        │         │ caribbean cruise singapore        │ Royal Caribbean Cruises            │
+│     │                        │         │ dream cruise singapore            │ Royal Caribbean International      │
+│     │                        │         │ dream cruise                      │ Star Cruises                       │
+│     │                        │         │ caribbean cruise                  │ Cruising                           │
+│     │                        │         │ royal caribbean                   │ Ship                               │
+│     │                        │         │ royal caribbean cruise singapore  │ Genting Dream                      │
+│     │                        │         │ royal caribbean singapore         │ Dream                              │
+│     │                        │         │ cruise from singapore             │ Princess Cruises                   │
+│     │                        │         │ river cruise singapore            │ Singapore Cruise Centre            │
+├─────┼────────────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 2   │ cruise                 │ 67      │ singapore cruise                  │ Cruise ship                        │
+│     │                        │         │ dream cruise                      │ Cruising                           │
+│     │                        │         │ tom cruise                        │ Tom Cruise                         │
+│     │                        │         │ caribbean cruise                  │ Genting Dream                      │
+│     │                        │         │ caribbean                         │ Ship                               │
+│     │                        │         │ river cruise                      │ Royal Caribbean Cruises            │
+│     │                        │         │ genting cruise                    │ Marina Bay Cruise Centre Singapore │
+│     │                        │         │ cruise centre                     │ Star Cruises                       │
+│     │                        │         │ royal caribbean cruise            │ Royal Caribbean International      │
+│     │                        │         │ royal caribbean                   │ River                              │
+├─────┼────────────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 3   │ royal carribean        │ 54      │ royal carribean singapore         │ Caribbean                          │
+│     │                        │         │ royal carribean cruise            │ Cruise ship                        │
+│     │                        │         │ royal caribbean singapore         │ Royal Caribbean Cruises            │
+│     │                        │         │ royal carribean sg                │ Royal Caribbean International      │
+│     │                        │         │ royal caribbean singapore         │ MS Mariner of the Seas             │
+│     │                        │         │ royal carribean singapore         │ Penang                             │
+│     │                        │         │                                   │ Cruising                           │
+│     │                        │         │                                   │ Genting Dream                      │
+│     │                        │         │                                   │ MS Voyager of the Seas             │
+│     │                        │         │                                   │ Balcony                            │
+├─────┼────────────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 4   │ 交易                     │ 51      │                                   │ 交易                                 │
+│     │                        │         │                                   │ 交易所                                │
+│     │                        │         │                                   │ 新加坡交易所                             │
+│     │                        │         │                                   │ 股票                                 │
+│     │                        │         │                                   │ 比特币                                │
+│     │                        │         │                                   │ 上海證券交易所                            │
+│     │                        │         │                                   │ 期货                                 │
+│     │                        │         │                                   │ 證券                                 │
+│     │                        │         │                                   │ 货币                                 │
+│     │                        │         │                                   │ 证券交易所                              │
+├─────┼────────────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 5   │ cruise promotion       │ 43      │ cruise singapore                  │ Cruise ship                        │
+│     │                        │         │ singapore cruise promotion        │ Promotion                          │
+│     │                        │         │ dream cruise                      │ Star Cruises                       │
+│     │                        │         │ dream cruise promotion            │ Royal Caribbean International      │
+│     │                        │         │ cruise singapore promotion 2018   │ Royal Caribbean Cruises            │
+│     │                        │         │ star cruise promotion             │ Genting Dream                      │
+│     │                        │         │ royal caribbean singapore         │ Genting Group                      │
+│     │                        │         │ genting dream cruise              │ Caribbean                          │
+│     │                        │         │ dream cruise promotion 2018       │ Cruising                           │
+│     │                        │         │ cruise singapore promotion 2018   │ Penang                             │
+├─────┼────────────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 6   │ genting dream          │ 42      │ dream cruise                      │ Genting Dream                      │
+│     │                        │         │ genting dream cruise              │ Cruise ship                        │
+│     │                        │         │ genting dream cruise singapore    │ Genting Group                      │
+│     │                        │         │ genting dream review              │ Dream                              │
+│     │                        │         │ genting dream cruise review       │ Blog                               │
+│     │                        │         │ royal caribbean singapore         │ Genting Highlands                  │
+│     │                        │         │ dream cruise                      │ Royal Caribbean Cruises            │
+│     │                        │         │ genting dream cruise              │ Royal Caribbean International      │
+│     │                        │         │ genting dream cruise singapore    │ Star Cruises                       │
+│     │                        │         │ genting dream review              │ Ship                               │
+├─────┼────────────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 7   │ 邮轮                     │ 41      │                                   │ 游轮                                 │
+│     │                        │         │                                   │ 麗星郵輪                               │
+│     │                        │         │                                   │ 轮船                                 │
+│     │                        │         │                                   │ 雲頂夢號郵輪                             │
+│     │                        │         │                                   │ 旅行社                                │
+│     │                        │         │                                   │ 码头                                 │
+│     │                        │         │                                   │ 旅行社                                │
+│     │                        │         │                                   │ 码头                                 │
+│     │                        │         │                                   │ 麗星郵輪                               │
+├─────┼────────────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 8   │ genting cruise         │ 40      │ genting dream cruise              │ Cruise ship                        │
+│     │                        │         │ genting dream                     │ Genting Dream                      │
+│     │                        │         │ dream cruise                      │ Genting Group                      │
+│     │                        │         │ genting cruise singapore          │ Dream                              │
+│     │                        │         │ cruise singapore                  │ Genting Highlands                  │
+│     │                        │         │ genting dream cruise singapore    │ Ship                               │
+│     │                        │         │ genting dream cruise review       │ Star Cruises                       │
+│     │                        │         │ genting dream cruise blog         │ Marina Bay Cruise Centre Singapore │
+│     │                        │         │ genting dream cruise price        │ Blog                               │
+│     │                        │         │ dream cruise                      │ Balcony                            │
+├─────┼────────────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 9   │ river cruise           │ 37      │ singapore river cruise            │ River                              │
+│     │                        │         │ river safari cruise               │ River cruise                       │
+│     │                        │         │ melaka river cruise               │ Cruising                           │
+│     │                        │         │ river safari cruise               │ Ticket                             │
+│     │                        │         │                                   │ Cruise ship                        │
+│     │                        │         │                                   │ Boat                               │
+│     │                        │         │                                   │ River Safari                       │
+│     │                        │         │                                   │ Safari                             │
+│     │                        │         │                                   │ Sentosa                            │
+│     │                        │         │                                   │ Wharf                              │
+├─────┼────────────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 10  │ dream cruise           │ 31      │ genting dream cruise              │ Cruise ship                        │
+│     │                        │         │ genting dream                     │ Genting Dream                      │
+│     │                        │         │ genting cruise                    │ Dream                              │
+│     │                        │         │ cruise singapore                  │ Star Cruises                       │
+│     │                        │         │ dream cruise singapore            │ Genting Highlands                  │
+│     │                        │         │ genting dream cruise singapore    │ Ship                               │
+│     │                        │         │ dream cruise review               │ Genting Group                      │
+│     │                        │         │ dream cruise 2018                 │ Phuket Province                    │
+│     │                        │         │ caribbean cruise                  │ World Dream                        │
+│     │                        │         │ royal caribbean                   │ Marina Bay Cruise Centre Singapore │
+├─────┼────────────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 11  │ 游轮                     │ 17      │                                   │ 游轮                                 │
+│     │                        │         │                                   │ 普吉府                                │
+│     │                        │         │                                   │ 普吉府                                │
+├─────┼────────────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 12  │ 优惠                     │ 16      │                                   │ 优惠券                                │
+│     │                        │         │                                   │ 淘寶網                                │
+│     │                        │         │                                   │ 码                                  │
+│     │                        │         │                                   │ 政策                                 │
+│     │                        │         │                                   │ 機票                                 │
+│     │                        │         │                                   │ 淘寶網                                │
+│     │                        │         │                                   │ 优惠券                                │
+├─────┼────────────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 13  │ star cruise            │ 11      │ star cruise singapore             │ Star Cruises                       │
+│     │                        │         │ cruise singapore                  │ Cruise ship                        │
+│     │                        │         │ star cruise promotion             │ Royal Caribbean Cruises            │
+│     │                        │         │ royal caribbean singapore         │ Genting Group                      │
+│     │                        │         │ star cruise gemini                │ SuperStar Gemini                   │
+│     │                        │         │ starcruise                        │ Cruising                           │
+│     │                        │         │ royal caribbean singapore         │ Star                               │
+│     │                        │         │                                   │ Genting Highlands                  │
+│     │                        │         │                                   │ Resort                             │
+│     │                        │         │                                   │ Penang                             │
+├─────┼────────────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 14  │ cruise ship            │ 9       │ cruise ship singapore             │ Cruise ship                        │
+│     │                        │         │ cartoon network cruise ship       │ Ship                               │
+│     │                        │         │ cartoon network cruise ship       │ Job                                │
+│     │                        │         │                                   │ Genting Dream                      │
+│     │                        │         │                                   │ Passenger                          │
+│     │                        │         │                                   │ Star Cruises                       │
+│     │                        │         │                                   │ Princess Cruises                   │
+│     │                        │         │                                   │ Caribbean                          │
+│     │                        │         │                                   │ Cruising                           │
+│     │                        │         │                                   │ MS Mariner of the Seas             │
+├─────┼────────────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 15  │ 游船                     │ 9       │                                   │                                    │
+├─────┼────────────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 16  │ cruise reviews         │ 8       │                                   │ Review                             │
+│     │                        │         │                                   │ Cruise ship                        │
+│     │                        │         │                                   │ Ha Long Bay                        │
+│     │                        │         │                                   │ bay                                │
+│     │                        │         │                                   │ Genting Dream                      │
+│     │                        │         │                                   │ Alaska                             │
+│     │                        │         │                                   │ Ship                               │
+├─────┼────────────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 17  │ star virgo             │ 7       │                                   │ SuperStar Virgo                    │
+│     │                        │         │                                   │ Star Cruises                       │
+│     │                        │         │                                   │ Cruise ship                        │
+│     │                        │         │                                   │ Virgo                              │
+│     │                        │         │                                   │ Astrological sign                  │
+│     │                        │         │                                   │ Horoscope                          │
+├─────┼────────────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 18  │ carribean cruise       │ 7       │ royal carribean cruise            │ Caribbean                          │
+│     │                        │         │                                   │ Cruise ship                        │
+│     │                        │         │                                   │ Royal Caribbean Cruises            │
+│     │                        │         │                                   │ Royal Caribbean International      │
+│     │                        │         │                                   │ Cruising                           │
+│     │                        │         │                                   │ MS Mariner of the Seas             │
+│     │                        │         │                                   │ Travel                             │
+│     │                        │         │                                   │ Review                             │
+│     │                        │         │                                   │ Genting Dream                      │
+│     │                        │         │                                   │ MS Voyager of the Seas             │
+├─────┼────────────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 19  │ 折扣                     │ 7       │                                   │ 回贈                                 │
+├─────┼────────────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 20  │ 促销                     │ 7       │                                   │ 促销活动                               │
+│     │                        │         │                                   │ 機票                                 │
+│     │                        │         │                                   │ 推广                                 │
+│     │                        │         │                                   │ 推广                                 │
+├─────┼────────────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 21  │ cruises                │ 6       │ dream cruises                     │ Cruise ship                        │
+│     │                        │         │ cruises from singapore            │ Princess Cruises                   │
+│     │                        │         │ princess cruises                  │ Cruising                           │
+│     │                        │         │ royal caribbean cruises           │ Star Cruises                       │
+│     │                        │         │ royal caribbean                   │ Dream                              │
+│     │                        │         │ star cruises                      │ Royal Caribbean Cruises            │
+│     │                        │         │ princess cruises singapore        │ Caribbean                          │
+│     │                        │         │ dream cruises singapore           │ Genting Dream                      │
+│     │                        │         │ royal caribbean singapore         │ River                              │
+│     │                        │         │ royal caribbean cruises singapore │ Ship                               │
+├─────┼────────────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 22  │ 轮船                     │ 5       │                                   │                                    │
+├─────┼────────────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 23  │ royal carribean sg     │ 4       │                                   │ Caribbean                          │
+├─────┼────────────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 24  │ singapore cruise deals │ 4       │                                   │ Cruise ship                        │
+│     │                        │         │                                   │ Holiday                            │
+│     │                        │         │                                   │ Travel                             │
+│     │                        │         │                                   │ Royal Caribbean Cruises            │
+│     │                        │         │                                   │ Holiday                            │
+│     │                        │         │                                   │ Travel                             │
+│     │                        │         │                                   │ Royal Caribbean Cruises            │
+├─────┼────────────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 25  │ 巡航                     │ 4       │                                   │ 飛彈                                 │
+│     │                        │         │                                   │ 巡航速度                               │
+│     │                        │         │                                   │ 巡航导弹                               │
+│     │                        │         │                                   │ 飛彈                                 │
+│     │                        │         │                                   │ 巡航速度                               │
+│     │                        │         │                                   │ 巡航导弹                               │
+├─────┼────────────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 26  │ china cruise           │ 3       │                                   │ Cruise ship                        │
+│     │                        │         │                                   │ China                              │
+│     │                        │         │                                   │ Cruise ship                        │
+├─────┼────────────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 27  │ cruise holiday         │ 2       │                                   │ Cruise ship                        │
+│     │                        │         │                                   │ Holiday                            │
+│     │                        │         │                                   │ school                             │
+│     │                        │         │                                   │ Cruising                           │
+│     │                        │         │                                   │ School holiday                     │
+│     │                        │         │                                   │ Genting Dream                      │
+│     │                        │         │                                   │ Package tour                       │
+│     │                        │         │                                   │ school                             │
+│     │                        │         │                                   │ Genting Dream                      │
+│     │                        │         │                                   │ School holiday                     │
+├─────┼────────────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 28  │ cheap cruise           │ 1       │                                   │ Cruise ship                        │
+│     │                        │         │                                   │ Flight                             │
+│     │                        │         │                                   │ Cruising                           │
+│     │                        │         │                                   │ Ticket                             │
+│     │                        │         │                                   │ Star Cruises                       │
+│     │                        │         │                                   │ Star Cruises                       │
+│     │                        │         │                                   │ Cruising                           │
+│     │                        │         │                                   │ Cruise ship                        │
+│     │                        │         │                                   │ Ticket                             │
+├─────┼────────────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 29  │ chanbrothers cruise    │ 0       │                                   │                                    │
+├─────┼────────────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 30  │ cruisecritic           │ 0       │                                   │ Cruise Critic                      │
+├─────┼────────────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 31  │ vacationstogo          │ 0       │                                   │                                    │
+├─────┼────────────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 32  │ dreamlines             │ 0       │                                   │                                    │
+├─────┼────────────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 33  │ cruisegowhere          │ 0       │                                   │                                    │
+├─────┼────────────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 34  │ Japan cruise           │ 0       │                                   │ Japan                              │
+│     │                        │         │                                   │ Cruise ship                        │
+│     │                        │         │                                   │ Lake                               │
+│     │                        │         │                                   │ Lake                               │
+├─────┼────────────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 35  │ Taiwan cruise          │ 0       │                                   │ Taiwan                             │
+│     │                        │         │                                   │ Cruise ship                        │
+│     │                        │         │                                   │ Japan                              │
+│     │                        │         │                                   │ Japan                              │
+│     │                        │         │                                   │ Cruise ship                        │
+├─────┼────────────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 36  │ Hong Kong cruise       │ 0       │                                   │ Hong Kong                          │
+│     │                        │         │                                   │ Cruise ship                        │
+│     │                        │         │                                   │ Star Cruises                       │
+│     │                        │         │                                   │ Ship                               │
+│     │                        │         │                                   │ Star Cruises                       │
+├─────┼────────────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 37  │ Malaysia cruise        │ 0       │ star cruise malaysia              │ Malaysia                           │
+│     │                        │         │                                   │ Cruise ship                        │
+│     │                        │         │                                   │ Royal Caribbean Cruises            │
+│     │                        │         │                                   │ Royal Caribbean International      │
+│     │                        │         │                                   │ Kuala Lumpur                       │
+│     │                        │         │                                   │ Asia                               │
+│     │                        │         │                                   │ Genting Group                      │
+│     │                        │         │                                   │ Genting Highlands                  │
+│     │                        │         │                                   │ Penang                             │
+│     │                        │         │                                   │ Star Cruises                       │
+├─────┼────────────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 38  │ Batam cruise           │ 0       │                                   │ Batam                              │
+│     │                        │         │                                   │ Cruise ship                        │
+│     │                        │         │                                   │ Ferry                              │
+│     │                        │         │                                   │ Hotel                              │
+│     │                        │         │                                   │ Resort                             │
+│     │                        │         │                                   │ Bintan Island                      │
+│     │                        │         │                                   │ Hotel                              │
+│     │                        │         │                                   │ Resort                             │
+│     │                        │         │                                   │ Bintan Island                      │
+├─────┼────────────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 39  │ cruise discount        │ 0       │                                   │                                    │
+├─────┼────────────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 40  │ cruise sales           │ 0       │                                   │                                    │
+├─────┼────────────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 41  │ cruise promo           │ 0       │                                   │ Code                               │
+│     │                        │         │                                   │ Cruise ship                        │
+│     │                        │         │                                   │ Coupon                             │
+│     │                        │         │                                   │ Royal Caribbean Cruises            │
+│     │                        │         │                                   │ Cruising                           │
+│     │                        │         │                                   │ Royal Caribbean International      │
+│     │                        │         │                                   │ Promotion                          │
+│     │                        │         │                                   │ Cruising                           │
+│     │                        │         │                                   │ Promotion                          │
+│     │                        │         │                                   │ Code                               │
+├─────┼────────────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 42  │ cruise blog            │ 0       │ genting dream cruise blog         │ Blog                               │
+│     │                        │         │ genting dream cruise blog         │ Cruise ship                        │
+│     │                        │         │                                   │ Genting Dream                      │
+│     │                        │         │                                   │ Travel                             │
+│     │                        │         │                                   │ Review                             │
+│     │                        │         │                                   │ River                              │
+│     │                        │         │                                   │ MS Mariner of the Seas             │
+│     │                        │         │                                   │ Royal Caribbean International      │
+│     │                        │         │                                   │ Genting Dream                      │
+├─────┼────────────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 43  │ cruise offers          │ 0       │                                   │                                    │
+├─────┼────────────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 44  │ 雲頂夢號郵輪                 │ 0       │                                   │                                    │
+├─────┼────────────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 45  │ 麗星郵輪                   │ 0       │                                   │                                    │
+├─────┼────────────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 46  │ 马来西亚邮轮                 │ 0       │                                   │ 馬來西亞                               │
+├─────┼────────────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 47  │ 新加坡邮轮                  │ 0       │                                   │ 游轮                                 │
+│     │                        │         │                                   │ 海域                                 │
+│     │                        │         │                                   │ 海域                                 │
+├─────┼────────────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 48  │ 邮轮折扣                   │ 0       │                                   │                                    │
+├─────┼────────────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 49  │ 邮轮优惠                   │ 0       │                                   │                                    │
+├─────┼────────────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 50  │ 邮轮旅游                   │ 0       │                                   │                                    │
+├─────┼────────────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 51  │ 邮轮配套                   │ 0       │                                   │                                    │
+├─────┼────────────────────────┼─────────┼───────────────────────────────────┼────────────────────────────────────┤
+│ 52  │ 扣头                     │ 0       │                                   │                                    │
+└─────┴────────────────────────┴─────────┴───────────────────────────────────┴────────────────────────────────────┘

@@ -42,7 +42,8 @@ async function _getKeywordsAndAverages(options) {
 
 /**
  * Google API url does not accept more than 5 words,
- * does chunking and regrouping
+ * does chunking and regrouping, making multiple calls see
+ * `_getKeywordsAndAverages()`
  * @param {*} object 
  */
 async function getKeywordsAndAverages(options){
@@ -67,6 +68,10 @@ async function getKeywordsAndAverages(options){
 
 const english = /^[A-Za-z0-9 ]*$/;
 
+/**
+ * Gets language code of given string(s)
+ * @param {String[]|String} string 
+ */
 function getLanguageCode(string) {
   if (Array.isArray(string)) {
     string = string[0]
@@ -99,23 +104,6 @@ function getQueryOptions(keywords) {
   return options
 }
 
-async function getTrend(keywords){
-  let options = getQueryOptions(keywords)
-  try {
-    let averages = await getKeywordsAndAverages(options)
-    let relatedQueries = await getRelatedQueries(options)
-    let relatedTopics = await getRelatedTopics(options)
-    
-    options.relatedTopics = relatedTopics
-    options.averages = averages
-    options.relatedQueries = relatedQueries
-    return options
-  } catch (err) {
-    err.options = options
-    return Promise.reject(err)
-  }
-}
-
 async function _getRelatedTopics(options) {
   return new Promise(async (resolve, reject) => {
     googleTrends.relatedTopics(options, (err, results) => {
@@ -127,6 +115,10 @@ async function _getRelatedTopics(options) {
   })
 }
 
+/**
+ * Queries are split and multiple calls are 
+ * made to the API. See `_getRelatedTopics()`
+ */
 async function getRelatedTopics(options) {
   let keywords = options.keywords
   let relatedTopics = keywords.reduce((obj, keyword) => {
@@ -196,6 +188,27 @@ async function getRelatedQueries(options) {
 
   let results = relatedQueries
   return results
+}
+
+/**
+ * Gets averages, related queries and related topics for the keywords
+ * @param {*} keywords 
+ */
+async function getTrend(keywords){
+  let options = getQueryOptions(keywords)
+  try {
+    let averages = await getKeywordsAndAverages(options)
+    let relatedQueries = await getRelatedQueries(options)
+    let relatedTopics = await getRelatedTopics(options)
+    
+    options.relatedTopics = relatedTopics
+    options.averages = averages
+    options.relatedQueries = relatedQueries
+    return options
+  } catch (err) {
+    err.options = options
+    return Promise.reject(err)
+  }
 }
 
 function displayTrendTable(trend) {
