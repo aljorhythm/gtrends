@@ -24,10 +24,13 @@
   "dependencies": {
     "argparse": "^1.0.10",
     "cli-table": "^0.3.1",
+    "csv-array": "0.0.22",
     "date-and-time": "^0.6.2",
-    "google-trends-api": "^4.6.1",
-    "languagedetect": "^1.1.1",
+    "file-extension": "^4.0.2",
+    "fs-extra": "^6.0.1",
+    "google-trends-api": "^4.6.2",
     "https-proxy-agent": "^2.2.1",
+    "languagedetect": "^1.1.1",
     "lodash": "^4.17.10"
   },
   "devDependencies": {},
